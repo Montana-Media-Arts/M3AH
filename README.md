@@ -1,9 +1,14 @@
 # Montana Music, Media, Art Hackathon (M3AH)
 
-_A collaboration between the School of Media Arts, College of the Arts and Media, and Innovation Factory at the University of Montana_
+_A collaboration between the School of Visual and Media Arts (SVMA), College of the Arts and Media (CAM), and Innovation Factory (IF) at the University of Montana_
 
 Draft proposal by: Michael Musick.
-Draft Date: Jan 29th, 2019
+
+Updated Hackathon Participation Syllabus: Jan 21st, 20201
+
+- In preparation for a Spring 2020, MART 391-02, ST: Hackathon (M3AH)
+
+Original Draft Date: Jan 29th, 2019
 
 Submitted to:
 - Michael Cassens
@@ -15,8 +20,8 @@ GitHub Repo: [https://github.com/Montana-Media-Arts/M3AH](https://github.com/Mon
 
 Associated Course Syllabus Links:
 
-- MART 361 - Rapid Innovation through Hackathons:
-- MART 362 - Organizing and Facilitating Innovation through Hackathons:
+- MART 361 - Rapid Innovation through Hackathons: https://github.com/Montana-Media-Arts/M3AH/blob/master/Syllabus-mart361.md
+- MART 362 - Organizing and Facilitating Innovation through Hackathons: https://github.com/Montana-Media-Arts/M3AH/blob/master/Syllabus-mart362.md
 
 
 ## Description
