@@ -14,7 +14,7 @@ Date modified: 2020-01-29
 	- [Professor/Instructor](#professorinstructor)
 	- [Course Websites](#course-websites)
 	- [Description](#description)
-	- [Objectives & Student Learning Outcomes (SLO's)](#objectives-student-learning-outcomes-slos)
+	- [Objectives & Student Learning Outcomes (SLO's)](#objectives--student-learning-outcomes-slos)
 	- [Pre-Requisites](#pre-requisites)
 	- [Books and Supplies](#books-and-supplies)
 - [Policies](#policies)
