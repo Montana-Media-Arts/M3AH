@@ -105,6 +105,11 @@ _Students are encouraged to leverage IF, SVMA, and University resources where ap
 If your project involves a computer, you will need to acquire access to one that can be used in the IF.
 
 
+
+---
+
+
+
 # Policies
 
 ## Course Evaluation
@@ -209,6 +214,9 @@ The University of Montana assures equal access to instruction through collaborat
 ## Changes to the Course
 
 I reserve the right to change the intended content of this course throughout the semester. This may be done to adjust for the speed of the class, to better meet educational goals, or to account for changes in technology.
+
+
+---
 
 
 
