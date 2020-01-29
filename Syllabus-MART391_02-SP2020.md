@@ -33,7 +33,7 @@ Date modified: 2020-01-29
 - [Innovation Factory Specific Policies](#innovation-factory-specific-policies)
 	- [IF Overview](#if-overview)
 	- [Advising Towards the Certificate](#advising-towards-the-certificate)
-- [Course Calendar Breakdown](#course-breakdown)
+- [Course Calendar Breakdown](#course-calendar-breakdown)
 
 <!-- /TOC -->
 
@@ -233,9 +233,11 @@ The culminating experiences of the Innovation Certificate challenges cohorts by 
 ---
 
 
-# Course Breakdown
+# Course Calendar Breakdown
 
 **2-Weeks Prior to the Hackathon**
+
+Opens March 23rd
 
 _Expect 12 hours of work_
 
@@ -252,12 +254,16 @@ Content will include:
 
 **Hackathon (Friday Evening through Saturday Evening)**
 
+Friday, April 5th & Saturday April 6th
+
 - Students are expected to attend the opening kick-off event Friday evening.
 - Students are then expected to work as needed in the space the remainder of the time.
 - Students will work with faculty, mentors, and makerspace experts to receive advice, guidance, feedback, and assistance throughout the hackathon.
 - Students are required to present their final projects and results at the Saturday evening "Presentation of Hackathon Projects".
 
 **4-Weeks Post Hackathon**
+
+Closes May 1st
 
 _Expect 17 hours of work_
 
